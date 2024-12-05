@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmlagant
-- 👀 I’m interested in Virtual and Mixed Reality
-- 🌱 I’m currently learning C# and Unity
+- 👀 I’m interested in Product Management, Data Science, and Business Analytics
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
